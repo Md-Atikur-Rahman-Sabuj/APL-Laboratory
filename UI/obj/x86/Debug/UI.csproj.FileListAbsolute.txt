@@ -1,0 +1,40 @@
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\bin\Debug\UI.exe
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\bin\Debug\UI.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\obj\x86\Debug\UI.CarAnimation.resources
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\obj\x86\Debug\UI.exe
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\obj\x86\Debug\UI.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\bin\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\bin\Debug\SpeedControl.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\bin\Debug\Dal.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\bin\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\bin\Debug\SpeedControl.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\LabHw(car animation)\UI\bin\Debug\Dal.pdb
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\obj\x86\Debug\UI.exe
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\obj\x86\Debug\UI.pdb
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\bin\Debug\UI.exe
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\bin\Debug\UI.pdb
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\bin\Debug\Entity.dll
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\bin\Debug\SpeedControl.dll
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\bin\Debug\Dal.dll
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\bin\Debug\Entity.pdb
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\bin\Debug\SpeedControl.pdb
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\bin\Debug\Dal.pdb
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\obj\x86\Debug\UI.CarAnimation.resources
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\Users\Sabuj\Downloads\LabHw(car animation)\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+G:\Programming\Visual studio\LabHw(car animation)\UI\obj\x86\Debug\UI.exe
+G:\Programming\Visual studio\LabHw(car animation)\UI\obj\x86\Debug\UI.pdb
+G:\Programming\Visual studio\LabHw(car animation)\UI\bin\Debug\UI.exe
+G:\Programming\Visual studio\LabHw(car animation)\UI\bin\Debug\UI.pdb
+G:\Programming\Visual studio\LabHw(car animation)\UI\bin\Debug\Entity.dll
+G:\Programming\Visual studio\LabHw(car animation)\UI\bin\Debug\SpeedControl.dll
+G:\Programming\Visual studio\LabHw(car animation)\UI\bin\Debug\Entity.pdb
+G:\Programming\Visual studio\LabHw(car animation)\UI\bin\Debug\SpeedControl.pdb
+G:\Programming\Visual studio\LabHw(car animation)\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+G:\Programming\Visual studio\LabHw(car animation)\UI\obj\x86\Debug\UI.CarAnimation.resources
+G:\Programming\Visual studio\LabHw(car animation)\UI\obj\x86\Debug\UI.Properties.Resources.resources
+G:\Programming\Visual studio\LabHw(car animation)\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache

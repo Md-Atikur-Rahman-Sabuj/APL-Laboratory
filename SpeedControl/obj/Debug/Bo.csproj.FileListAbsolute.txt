@@ -1,0 +1,9 @@
+G:\Programming\Visual studio\LabHw(car animation)\SpeedControl\bin\Debug\SpeedControl.dll
+G:\Programming\Visual studio\LabHw(car animation)\SpeedControl\bin\Debug\SpeedControl.pdb
+G:\Programming\Visual studio\LabHw(car animation)\SpeedControl\bin\Debug\Dal.dll
+G:\Programming\Visual studio\LabHw(car animation)\SpeedControl\bin\Debug\Entity.dll
+G:\Programming\Visual studio\LabHw(car animation)\SpeedControl\bin\Debug\Dal.pdb
+G:\Programming\Visual studio\LabHw(car animation)\SpeedControl\bin\Debug\Entity.pdb
+G:\Programming\Visual studio\LabHw(car animation)\SpeedControl\obj\Debug\Bo.csprojResolveAssemblyReference.cache
+G:\Programming\Visual studio\LabHw(car animation)\SpeedControl\obj\Debug\SpeedControl.dll
+G:\Programming\Visual studio\LabHw(car animation)\SpeedControl\obj\Debug\SpeedControl.pdb
